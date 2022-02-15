@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 75e3d941-5388-359d-900e-7823693c3e29
 ---
@@ -382,7 +385,7 @@ Censer, Jack R., and Lynn Hunt. _Liberty, Equality, Fraternity: Exploring the Fr
 
 "Declaration of the Rights of Man and Citizen." (1789) \[See on [The Avalon Project](http://avalon.law.yale.edu/18th_century/rightsof.asp)\]
 
-"Declaration of the Rights of Woman and the Female Citizen." (1791) \[See on [City University of New York](https://csivc.csi.cuny.edu/americanstudies/files/lavender/decwom2.html)\]
+"Declaration of the Rights of Woman and the Female Citizen." (1791) \[See on [City University of New York](https://www.cuny.edu/)\]
 
 "The Constitution of 1791." (1791) \[See on [The Online Source Book](http://www.enotes.com/topic/French_Constitution_of_1791)\]
 

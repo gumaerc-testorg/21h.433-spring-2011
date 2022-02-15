@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: a67082f5-ff4a-86cb-902a-96598d36ab56
 title: Second Debate Resolution and Format
 uid: e9c52b45-61ce-48e5-36e8-bbe5e8f9f56e
