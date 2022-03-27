@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Third Paper
 parent_type: CourseSection
+parent_uid: efa0d739-6a5f-b0c7-baad-2deca68bca7c
 resourcetype: Document
 title: MIT21H_433S11_paper_sugest.pdf
 uid: 70d74b8d-26d4-9f2b-9a55-711b1c8fab9d

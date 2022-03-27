@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Images
 parent_type: CourseSection
+parent_uid: 08dc8971-fcdd-6b6b-0e86-589b8630d238
 resourcetype: Document
 title: MIT21H_433S11_principles.pdf
 uid: 8068749a-143a-1366-28fd-b621a3949af0

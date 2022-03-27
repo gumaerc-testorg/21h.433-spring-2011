@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Images
 parent_type: CourseSection
+parent_uid: 08dc8971-fcdd-6b6b-0e86-589b8630d238
 resourcetype: Document
 title: MIT21H_433S11_img_louis.pdf
 uid: 2afbd8cb-17aa-b548-487a-de4c49b87fd3

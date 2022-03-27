@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: dc0522f7-7a10-2749-eafe-e3f614f86f6f
 resourcetype: Document
 title: MIT21H_433S11_sylls03.pdf
 uid: a6033f29-5f35-cd8d-953d-2b0e5a37a5c7

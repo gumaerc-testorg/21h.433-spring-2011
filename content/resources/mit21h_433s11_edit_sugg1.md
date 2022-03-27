@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: a67082f5-ff4a-86cb-902a-96598d36ab56
 resourcetype: Document
 title: MIT21H_433S11_Edit_Sugg1.pdf
 uid: b2e17eba-a8bd-3bff-958c-a93aea08c0a2

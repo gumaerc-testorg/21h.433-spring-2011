@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Images
 parent_type: CourseSection
+parent_uid: 08dc8971-fcdd-6b6b-0e86-589b8630d238
 resourcetype: Document
 title: MIT21H_433S11_astro.pdf
 uid: 5ffaba6f-67dd-f4ff-ef0b-20f8fc410d98
