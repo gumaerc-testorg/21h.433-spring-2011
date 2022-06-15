@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of readings by lecture topic, information
+  on the course textbooks, and additional resources.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -291,7 +293,7 @@ Are Men Machines? Are Machines Alive?
 {{< tdopen >}}
 
 
-Riskin, Jessica."Eighteenth-CenturyWetware." _Representations_ 83 (2003): 97-125. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.8MB](http://www.stanford.edu/dept/HPST/representations1.pdf))
+Riskin, Jessica."Eighteenth-CenturyWetware." _Representations_ 83 (2003): 97-125. ([PDF - 2.8MB](http://www.stanford.edu/dept/HPST/representations1.pdf))
 
 \[Offray\] pp. 20-76.
 

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on resolution and format for the second
+  in-class debate.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
