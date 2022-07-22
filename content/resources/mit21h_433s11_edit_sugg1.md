@@ -6,6 +6,7 @@ file: /courses/21h-433-the-age-of-reason-europe-from-the-17th-to-the-early-19th-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21H_433S11_Edit_Sugg1.pdf
 uid: b2e17eba-a8bd-3bff-958c-a93aea08c0a2
 ---
 This resource is the writing process which includes rigorous editing practices.
-
