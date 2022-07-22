@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides information on resolution and format for the first
+  in-class debate.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: a67082f5-ff4a-86cb-902a-96598d36ab56
 title: First Debate Resolution and Format
 uid: 1c1d0937-85f9-c9f2-01d3-f8e286c3d096

@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the third writing
+  assignment of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: a67082f5-ff4a-86cb-902a-96598d36ab56
 title: Third Paper
 uid: efa0d739-6a5f-b0c7-baad-2deca68bca7c
@@ -27,4 +33,4 @@ uid: efa0d739-6a5f-b0c7-baad-2deca68bca7c
 5.  Read a secondary monograph on a topic of interest that you would like to explore in greater depth. For example, you may wish to read more about the life of a writer, artist, or political figure from the period. Or you may want to learn more about natural philosophy or political thought during the Age of Reason. Consult the list of primary and secondary sources on the web site, although you are not limited to the works listed there. ("Primary and Secondary Source Bibliography") Once you have read the monograph, write a paper in which you summarize the work's argument in not more than one or two pages, then place it in the context of the themes we have been discussing. DO NOT WRITE A BOOK REPORT! To locate a secondary work, you may also consult the bibliographies at the end of each chapter in Hunt, _et al., The Making of the West_, or you may ask me for suggestions. If you choose this option, you must get my approval for the monograph by Ses #22.
 6.  Propose your own final paper topic. You must submit the topic for my approval by Ses #22.
 
-Paper Suggestions ([PDF]({{< baseurl >}}/resources/mit21h_433s11_paper_sugest))
+Paper Suggestions ({{% resource_link 70d74b8d-26d4-9f2b-9a55-711b1c8fab9d "PDF" %}})

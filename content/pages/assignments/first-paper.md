@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the first writing
+  assignment of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: a67082f5-ff4a-86cb-902a-96598d36ab56
 title: First Paper
 uid: efa62615-3b2b-147f-92ea-ef0574a03ed3

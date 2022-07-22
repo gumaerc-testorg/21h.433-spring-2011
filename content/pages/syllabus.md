@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the subject description, a syllabus archives,
+  and information on meeting times, requirements, criteria for HASS CI subjects, a
+  statement on cheating and plagiarism, and and the schedule of lecture topics and
+  key dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: dc0522f7-7a10-2749-eafe-e3f614f86f6f
 ---
@@ -14,23 +20,23 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-Spring 2011, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_433s11_sylls11))  
+Spring 2011, Jeffrey Ravel ({{% resource_link ebeaf410-0b78-7fca-6945-ec878a6c4c14 "PDF" %}})  
   
-Spring 2010, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_433s11_sylls10))  
+Spring 2010, Jeffrey Ravel ({{% resource_link 870adfee-3f63-1a13-fa43-7c6b48e538c2 "PDF" %}})  
   
-Spring 2009, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_433s11_sylls09))  
+Spring 2009, Jeffrey Ravel ({{% resource_link bde0b8c8-2f09-3755-985f-e593953c423a "PDF" %}})  
   
-Spring 2008, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_433s11_sylls08))  
+Spring 2008, Jeffrey Ravel ({{% resource_link 668bc6f3-90db-5bd9-e7cc-1c4d7f9d89e2 "PDF" %}})  
   
-Spring 2007, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_433s11_sylls07))  
+Spring 2007, Jeffrey Ravel ({{% resource_link 64bf666a-e67f-5c59-cfc7-02ac15de1aa4 "PDF" %}})  
   
-Spring 2006, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_433s11_sylls06))  
+Spring 2006, Jeffrey Ravel ({{% resource_link 9790f385-100e-6e06-f7f0-f8be88d36b05 "PDF" %}})  
   
-Spring 2005, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_433s11_sylls05))  
+Spring 2005, Jeffrey Ravel ({{% resource_link e92e7f21-9f31-3296-3460-c521d2c2655e "PDF" %}})  
   
-Spring 2004, David Ciarlo ([PDF]({{< baseurl >}}/resources/mit21h_433s11_sylls04))  
+Spring 2004, David Ciarlo ({{% resource_link b12b5d59-2ee9-ddf4-5c4c-19a6f7f32824 "PDF" %}})  
   
-Spring 2003, Jeffrey Ravel ([PDF]({{< baseurl >}}/resources/mit21h_433s11_sylls03))
+Spring 2003, Jeffrey Ravel ({{% resource_link a6033f29-5f35-cd8d-953d-2b0e5a37a5c7 "PDF" %}})
 
 Subject Description
 -------------------
