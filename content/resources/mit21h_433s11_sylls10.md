@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource intends to provide alternate views into the instruction
   of this course.
-file: /courses/21h-433-the-age-of-reason-europe-from-the-17th-to-the-early-19th-centuries-spring-2011/870adfee3f631a13fa437c6b48e538c2_MIT21H_433S11_syllS10.pdf
+file: /ol-ocw-studio-app/courses/21h-433-the-age-of-reason-europe-from-the-17th-to-the-early-19th-centuries-spring-2011/870adfee3f631a13fa437c6b48e538c2_MIT21H_433S11_syllS10.pdf
 file_size: 70194
 file_type: application/pdf
 learning_resource_types: []
