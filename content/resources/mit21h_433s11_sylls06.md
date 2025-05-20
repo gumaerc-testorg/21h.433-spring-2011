@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on "The age of reason".
-file: /ol-ocw-studio-app/courses/21h-433-the-age-of-reason-europe-from-the-17th-to-the-early-19th-centuries-spring-2011/9790f385100e6e06f7f0f8be88d36b05_MIT21H_433S11_sylls06.pdf
+file: /courses/21h-433-the-age-of-reason-europe-from-the-17th-to-the-early-19th-centuries-spring-2011/9790f385100e6e06f7f0f8be88d36b05_MIT21H_433S11_sylls06.pdf
 file_size: 75111
 file_type: application/pdf
 learning_resource_types: []
