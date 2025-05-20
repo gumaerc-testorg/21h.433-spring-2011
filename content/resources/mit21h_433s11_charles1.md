@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains images on the execution of Charles I.
-file: /ol-ocw-studio-app/courses/21h-433-the-age-of-reason-europe-from-the-17th-to-the-early-19th-centuries-spring-2011/91c4654bcf55604e103d67be01c6fca7_MIT21H_433S11_charles1.pdf
+file: /courses/21h-433-the-age-of-reason-europe-from-the-17th-to-the-early-19th-centuries-spring-2011/91c4654bcf55604e103d67be01c6fca7_MIT21H_433S11_charles1.pdf
 file_size: 616733
 file_type: application/pdf
 learning_resource_types: []
