@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains images on astrology, mannerism, and anatomy.
-file: /courses/21h-433-the-age-of-reason-europe-from-the-17th-to-the-early-19th-centuries-spring-2011/5ffaba6f67ddf4ffef0b20f8fc410d98_MIT21H_433S11_astro.pdf
+file: /ol-ocw-studio-app/courses/21h-433-the-age-of-reason-europe-from-the-17th-to-the-early-19th-centuries-spring-2011/5ffaba6f67ddf4ffef0b20f8fc410d98_MIT21H_433S11_astro.pdf
 file_size: 2698883
 file_type: application/pdf
 learning_resource_types: []
